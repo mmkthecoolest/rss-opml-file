@@ -12,50 +12,50 @@
       <outline htmlUrl="https://www.engadget.com/" type="rss" text="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" title="Engadget" xmlUrl="https://www.engadget.com/rss.xml" />
       <outline htmlUrl="https://www.bleepingcomputer.com/" type="rss" text="BleepingComputer - All Stories" title="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" />
       <outline htmlUrl="https://www.washingtonpost.com/business/technology/?itid=nb_technology" type="rss" text="Washington Post technology news." title="Washington Post - Technology" xmlUrl="https://feeds.washingtonpost.com/rss/business/technology?itid=lk_inline_manual_31" />
-	  <outline htmlUrl="https://www.nytimes.com/section/technology" type="rss" text="" title="NYT &gt; Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" />
-	  <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1019" type="rss" text="Latest technology news and breakthroughs in technology, science, and industry. Download the NPR Technology podcast and Technology RSS feed." title="Technology : NPR" xmlUrl="https://feeds.npr.org/1019/rss.xml" />
-	  <outline htmlUrl="https://techcrunch.com/" type="rss" text="Startup and Technology News" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" />
-	  <outline htmlUrl="https://www.wired.com/" type="rss" text="The latest from www.wired.com" title="Wired" xmlUrl="https://www.wired.com/feed/rss" />
+      <outline htmlUrl="https://www.nytimes.com/section/technology" type="rss" text="" title="NYT &gt; Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" />
+      <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1019" type="rss" text="Latest technology news and breakthroughs in technology, science, and industry. Download the NPR Technology podcast and Technology RSS feed." title="Technology : NPR" xmlUrl="https://feeds.npr.org/1019/rss.xml" />
+      <outline htmlUrl="https://techcrunch.com/" type="rss" text="Startup and Technology News" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" />
+      <outline htmlUrl="https://www.wired.com/" type="rss" text="The latest from www.wired.com" title="Wired" xmlUrl="https://www.wired.com/feed/rss" />
     </outline>
-	<outline text="Tech - Blogs">
-	  <outline htmlUrl="https://blog.thunderbird.net/" type="rss" text="News and Updates about Thunderbird" title="The Thunderbird Blog" xmlUrl="https://blog.thunderbird.net/feed/" />
-	  <outline htmlUrl="https://blog.mozilla.org/en/category/products/firefox/" type="rss" text="News and Updates about Mozilla Firefox" title="Firefox - The Mozilla Blog" xmlUrl="https://blog.mozilla.org/en/category/products/firefox/feed/" />
-	  <outline htmlUrl="https://discord.com/blog" type="rss" text="Learn about Discord's updates, insights, community stories, educational resources, and much more." title="Discord Blog" xmlUrl="https://discord.com/blog/rss.xml" />
-	  <outline htmlUrl="https://android-developers.googleblog.com/" type="rss" text="An Open Handset Alliance Project." title="Android Developers Blog" xmlUrl="https://feeds.feedburner.com/blogspot/hsDu" />
-	  <outline htmlUrl="https://newpipe.net/blog/" type="rss" text="The latest blog posts" title="NewPipe Blog" xmlUrl="https://newpipe.net/blog/feeds/news.rss" />
-	  <outline htmlUrl="https://news.nononsenseapps.com/" type="rss" text="Latest entries" title="Feeder News" xmlUrl="https://news.nononsenseapps.com/index.atom" />
-	  <outline htmlUrl="https://sfconservancy.org/blog/" type="rss" text="All blogs at the Software Freedom Conservancy." title="The Software Freedom Conservancy Blog." xmlUrl="https://sfconservancy.org/feeds/blog/" />
-	</outline>
-	<outline text="Personal Blogs">
-	  <outline htmlUrl="https://ploum.net/index_en.html" type="rss" text="le blog de Lionel Dricot" title="Ploum.net" xmlUrl="https://ploum.net/atom_en.xml" />
-	  <outline htmlUrl="https://vkc.sh/blog/" type="rss" text="Veronica explains even more" title="VKC.sh | Veronica Explains" xmlUrl="https://vkc.sh/feed/" />
-	  <outline htmlUrl="https://pluralistic.net/" type="rss" text="No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period." title="Pluralistic: Daily links from Cory Doctorow" xmlUrl="https://pluralistic.net/feed/" />
-	</outline>
-	<outline text="Gaming">
-	  <outline htmlUrl="https://www.minecraft.net/en-us/article" type="rss" text="All the latest news, inside info and insight into the community's amazing creations!" title="Minecraft.net - All Content RSS Feed" xmlUrl="https://www.minecraft.net/en-us/feeds/community-content/rss" />
-	  <outline htmlUrl="https://prismlauncher.org/news/" type="rss" text="An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability." title="Prism Launcher" xmlUrl="https://prismlauncher.org/feed/feed.xml" />
-	</outline>
+    <outline text="Tech - Blogs">
+      <outline htmlUrl="https://blog.thunderbird.net/" type="rss" text="News and Updates about Thunderbird" title="The Thunderbird Blog" xmlUrl="https://blog.thunderbird.net/feed/" />
+      <outline htmlUrl="https://blog.mozilla.org/en/category/products/firefox/" type="rss" text="News and Updates about Mozilla Firefox" title="Firefox - The Mozilla Blog" xmlUrl="https://blog.mozilla.org/en/category/products/firefox/feed/" />
+      <outline htmlUrl="https://discord.com/blog" type="rss" text="Learn about Discord's updates, insights, community stories, educational resources, and much more." title="Discord Blog" xmlUrl="https://discord.com/blog/rss.xml" />
+      <outline htmlUrl="https://android-developers.googleblog.com/" type="rss" text="An Open Handset Alliance Project." title="Android Developers Blog" xmlUrl="https://feeds.feedburner.com/blogspot/hsDu" />
+      <outline htmlUrl="https://newpipe.net/blog/" type="rss" text="The latest blog posts" title="NewPipe Blog" xmlUrl="https://newpipe.net/blog/feeds/news.rss" />
+      <outline htmlUrl="https://news.nononsenseapps.com/" type="rss" text="Latest entries" title="Feeder News" xmlUrl="https://news.nononsenseapps.com/index.atom" />
+      <outline htmlUrl="https://sfconservancy.org/blog/" type="rss" text="All blogs at the Software Freedom Conservancy." title="The Software Freedom Conservancy Blog." xmlUrl="https://sfconservancy.org/feeds/blog/" />
+    </outline>
+    <outline text="Personal Blogs">
+      <outline htmlUrl="https://ploum.net/index_en.html" type="rss" text="le blog de Lionel Dricot" title="Ploum.net" xmlUrl="https://ploum.net/atom_en.xml" />
+      <outline htmlUrl="https://vkc.sh/blog/" type="rss" text="Veronica explains even more" title="VKC.sh | Veronica Explains" xmlUrl="https://vkc.sh/feed/" />
+      <outline htmlUrl="https://pluralistic.net/" type="rss" text="No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period." title="Pluralistic: Daily links from Cory Doctorow" xmlUrl="https://pluralistic.net/feed/" />
+    </outline>
+    <outline text="Gaming">
+      <outline htmlUrl="https://www.minecraft.net/en-us/article" type="rss" text="All the latest news, inside info and insight into the community's amazing creations!" title="Minecraft.net - All Content RSS Feed" xmlUrl="https://www.minecraft.net/en-us/feeds/community-content/rss" />
+      <outline htmlUrl="https://prismlauncher.org/news/" type="rss" text="An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability." title="Prism Launcher" xmlUrl="https://prismlauncher.org/feed/feed.xml" />
+    </outline>
     <outline text="Health">
       <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1128" type="rss" text="Health" title="Health : NPR" xmlUrl="https://feeds.npr.org/1128/rss.xml" />
       <outline htmlUrl="https://www.nytimes.com/section/health" type="rss" text="" title="NYT &gt; Health" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/section/health/rss.xml" />
       <outline htmlUrl="https://theconversation.com/us/health/articles.atom" type="rss" text="" title="Health - The Conversation" xmlUrl="https://theconversation.com/us/health/articles.atom" />
       <outline htmlUrl="https://www.webmd.com/" type="rss" text="WebMD Health - Trustworthy, Credible and Timely Health Information. The content of this feed is confidential and proprietary. It may not be distributed, copied or otherwise reproduced without express written permission from WebMD." title="WebMD Health" xmlUrl="https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC" />
     </outline>
-	<outline text="Psychology">
-	  <outline htmlUrl="https://www.psypost.org/" type="rss" text="Reporting the latest scientific research on behavior, cognition and society" title="PsyPost" xmlUrl="https://www.psypost.org/feed" />
-	  <outline htmlUrl="https://www.psychologytoday.com/intl" type="rss" text="The latest blog posts from Psychology Today" title="Psychology Today: The Latest" xmlUrl="https://www.psychologytoday.com/intl/front/feed" />
-	</outline>
+    <outline text="Psychology">
+      <outline htmlUrl="https://www.psypost.org/" type="rss" text="Reporting the latest scientific research on behavior, cognition and society" title="PsyPost" xmlUrl="https://www.psypost.org/feed" />
+      <outline htmlUrl="https://www.psychologytoday.com/intl" type="rss" text="The latest blog posts from Psychology Today" title="Psychology Today: The Latest" xmlUrl="https://www.psychologytoday.com/intl/front/feed" />
+    </outline>
     <outline text="Local - News">
       <outline htmlUrl="https://www.rochesterfirst.com" type="rss" text="" title="RochesterFirst" xmlUrl="https://www.rochesterfirst.com/app-feed" />
       <outline htmlUrl="https://www.roccitymag.com/" type="rss" text="Rochester news, arts, music, events listings and culture, on the web and in print every month. Offering alternative news for Rochester NY since 1971." title="CITY News. Arts. Life., CITY News - " xmlUrl="https://www.roccitymag.com/rochester/Rss.xml" />
       <outline htmlUrl="https://www.spectrumlocalnews.com/nys/rochester/news" type="rss" text="" title="Headlines | Rochester New York | Spectrum News 1" xmlUrl="https://spectrumlocalnews.com/services/contentfeed.nys%7crochester%7cnews.landing.rss" />
     </outline>
-	<outline text="Local - Weather">
-	  <outline htmlUrl="https://alerts.weather.gov/cap/wwaatmget.php?x=NYC055" type="rss" text="" title="Current Watches, Warnings and Advisories for Monroe (NYC055) New York Issued by the National Weather Service" xmlUrl="https://alerts.weather.gov/cap/wwaatmget.php?x=NYC055&amp;y=0" />
-	  <outline htmlUrl="https://www.airnow.gov/?city=Rochester&amp;state=NY&amp;country=USA" type="rss" text="EnviroFlash RSS Feed" title="Eastern Lake Ontario Region, NY - Current Air Quality" xmlUrl="https://feeds.enviroflash.info/rss/realtime/253.xml" />
-	  <outline htmlUrl="https://www.airnow.gov/?city=Rochester&amp;state=NY&amp;country=USA" type="rss" text="EnviroFlash RSS Feed" title="Eastern Lake Ontario Region, NY - Air Quality Forecast" xmlUrl="https://feeds.enviroflash.info/rss/forecast/253.xml" />
-	</outline>
-	<outline text="YouTube">
+    <outline text="Local - Weather">
+      <outline htmlUrl="https://alerts.weather.gov/cap/wwaatmget.php?x=NYC055" type="rss" text="" title="Current Watches, Warnings and Advisories for Monroe (NYC055) New York Issued by the National Weather Service" xmlUrl="https://alerts.weather.gov/cap/wwaatmget.php?x=NYC055&amp;y=0" />
+      <outline htmlUrl="https://www.airnow.gov/?city=Rochester&amp;state=NY&amp;country=USA" type="rss" text="EnviroFlash RSS Feed" title="Eastern Lake Ontario Region, NY - Current Air Quality" xmlUrl="https://feeds.enviroflash.info/rss/realtime/253.xml" />
+      <outline htmlUrl="https://www.airnow.gov/?city=Rochester&amp;state=NY&amp;country=USA" type="rss" text="EnviroFlash RSS Feed" title="Eastern Lake Ontario Region, NY - Air Quality Forecast" xmlUrl="https://feeds.enviroflash.info/rss/forecast/253.xml" />
+    </outline>
+    <outline text="YouTube">
       <outline htmlUrl="https://www.youtube.com/channel/UCtMVHI3AJD4Qk4hcbZnI9ZQ" type="rss" text="" title="SomeOrdinaryGamers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ" />
       <outline htmlUrl="https://www.youtube.com/channel/UCkpKS8M7MaZAFewtUz24K3A" type="rss" text="" title="Cybershell" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkpKS8M7MaZAFewtUz24K3A" />
       <outline htmlUrl="https://www.youtube.com/channel/UCjFaPUcJU1vwk193mnW_w1w" type="rss" text="" title="Modern Vintage Gamer" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjFaPUcJU1vwk193mnW_w1w" />
