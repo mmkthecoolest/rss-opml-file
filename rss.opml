@@ -42,9 +42,9 @@
       <outline htmlUrl="https://theconversation.com/us/health/articles.atom" type="rss" text="" title="Health - The Conversation" xmlUrl="https://theconversation.com/us/health/articles.atom" />
       <outline htmlUrl="https://www.webmd.com/" type="rss" text="WebMD Health - Trustworthy, Credible and Timely Health Information. The content of this feed is confidential and proprietary. It may not be distributed, copied or otherwise reproduced without express written permission from WebMD." title="WebMD Health" xmlUrl="https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC" />
     </outline>
-    <outline text="Psychology">
+    <outline text="Mental Health">
       <outline htmlUrl="https://www.psypost.org/" type="rss" text="Reporting the latest scientific research on behavior, cognition and society" title="PsyPost" xmlUrl="https://www.psypost.org/feed" />
-      <outline htmlUrl="https://www.psychologytoday.com/intl" type="rss" text="The latest blog posts from Psychology Today" title="Psychology Today: The Latest" xmlUrl="https://www.psychologytoday.com/intl/front/feed" />
+      <outline htmlUrl="https://www.sciencedaily.com/news/mind_brain/mental_health/" type="rss" text="Read the latest research as well as in-depth information on clinical depression, schizophrenia, bipolar disorder, ADHD and other mental health disorders in adults, teens, and children." title="Mental Health Research News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/mental_health.xml" />
     </outline>
     <outline text="Local - News">
       <outline htmlUrl="https://www.rochesterfirst.com" type="rss" text="" title="RochesterFirst" xmlUrl="https://www.rochesterfirst.com/app-feed" />
