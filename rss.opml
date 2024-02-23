@@ -9,7 +9,6 @@
       <outline htmlUrl="https://www.theverge.com/" type="rss" text="" title="The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" />
       <outline htmlUrl="https://www.techspot.com" type="rss" text="TechSpot News - All Stories" title="TechSpot" xmlUrl="https://www.techspot.com/backend.xml" />
       <outline htmlUrl="https://www.theregister.com/" type="rss" text="Biting the hand that feeds IT - Enterprise Technology News and Analysis" title="The Register" xmlUrl="https://www.theregister.com/headlines.atom" />
-      <outline htmlUrl="https://www.engadget.com/" type="rss" text="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" title="Engadget" xmlUrl="https://www.engadget.com/rss.xml" />
       <outline htmlUrl="https://www.bleepingcomputer.com/" type="rss" text="BleepingComputer - All Stories" title="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" />
       <outline htmlUrl="https://www.washingtonpost.com/business/technology/?itid=nb_technology" type="rss" text="Washington Post technology news." title="Washington Post - Technology" xmlUrl="https://feeds.washingtonpost.com/rss/business/technology?itid=lk_inline_manual_31" />
       <outline htmlUrl="https://www.nytimes.com/section/technology" type="rss" text="" title="NYT &gt; Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" />
@@ -39,7 +38,6 @@
     </outline>
     <outline text="Health">
       <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1128" type="rss" text="Health" title="Health : NPR" xmlUrl="https://feeds.npr.org/1128/rss.xml" />
-      <outline htmlUrl="https://www.nytimes.com/section/health" type="rss" text="" title="NYT &gt; Health" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/section/health/rss.xml" />
       <outline htmlUrl="https://theconversation.com/us/health/articles.atom" type="rss" text="" title="Health - The Conversation" xmlUrl="https://theconversation.com/us/health/articles.atom" />
       <outline htmlUrl="https://www.webmd.com/" type="rss" text="WebMD Health - Trustworthy, Credible and Timely Health Information. The content of this feed is confidential and proprietary. It may not be distributed, copied or otherwise reproduced without express written permission from WebMD." title="WebMD Health" xmlUrl="https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC" />
     </outline>
