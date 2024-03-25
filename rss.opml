@@ -37,23 +37,12 @@
       <outline htmlUrl="https://prismlauncher.org/news/" type="rss" text="An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability." title="Prism Launcher" xmlUrl="https://prismlauncher.org/feed/feed.xml" />
     </outline>
     <outline text="Health">
-      <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1128" type="rss" text="Health" title="Health : NPR" xmlUrl="https://feeds.npr.org/1128/rss.xml" />
-      <outline htmlUrl="https://theconversation.com/us/health/articles.atom" type="rss" text="" title="Health - The Conversation" xmlUrl="https://theconversation.com/us/health/articles.atom" />
+      <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1031" type="rss" text="NPR news on world health issues, disease control, public health and sanitation, and health education. Subscribe to the RSS feed." title="NPR Topics: Global Health" xmlUrl="https://feeds.npr.org/1031/rss.xml" />
       <outline htmlUrl="https://www.webmd.com/" type="rss" text="WebMD Health - Trustworthy, Credible and Timely Health Information. The content of this feed is confidential and proprietary. It may not be distributed, copied or otherwise reproduced without express written permission from WebMD." title="WebMD Health" xmlUrl="https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC" />
     </outline>
     <outline text="Mental Health">
       <outline htmlUrl="https://www.psypost.org/" type="rss" text="Reporting the latest scientific research on behavior, cognition and society" title="PsyPost" xmlUrl="https://www.psypost.org/feed" />
       <outline htmlUrl="https://www.sciencedaily.com/news/mind_brain/mental_health/" type="rss" text="Read the latest research as well as in-depth information on clinical depression, schizophrenia, bipolar disorder, ADHD and other mental health disorders in adults, teens, and children." title="Mental Health Research News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/mental_health.xml" />
-    </outline>
-    <outline text="Local - News">
-      <outline htmlUrl="https://www.rochesterfirst.com" type="rss" text="" title="RochesterFirst" xmlUrl="https://www.rochesterfirst.com/app-feed" />
-      <outline htmlUrl="https://www.roccitymag.com/" type="rss" text="Rochester news, arts, music, events listings and culture, on the web and in print every month. Offering alternative news for Rochester NY since 1971." title="CITY News. Arts. Life., CITY News - " xmlUrl="https://www.roccitymag.com/rochester/Rss.xml" />
-      <outline htmlUrl="https://www.spectrumlocalnews.com/nys/rochester/news" type="rss" text="" title="Headlines | Rochester New York | Spectrum News 1" xmlUrl="https://spectrumlocalnews.com/services/contentfeed.nys%7crochester%7cnews.landing.rss" />
-    </outline>
-    <outline text="Local - Weather">
-      <outline htmlUrl="https://alerts.weather.gov/cap/wwaatmget.php?x=NYC055" type="rss" text="" title="Current Watches, Warnings and Advisories for Monroe (NYC055) New York Issued by the National Weather Service" xmlUrl="https://alerts.weather.gov/cap/wwaatmget.php?x=NYC055&amp;y=0" />
-      <outline htmlUrl="https://www.airnow.gov/?city=Rochester&amp;state=NY&amp;country=USA" type="rss" text="EnviroFlash RSS Feed" title="Eastern Lake Ontario Region, NY - Current Air Quality" xmlUrl="https://feeds.enviroflash.info/rss/realtime/253.xml" />
-      <outline htmlUrl="https://www.airnow.gov/?city=Rochester&amp;state=NY&amp;country=USA" type="rss" text="EnviroFlash RSS Feed" title="Eastern Lake Ontario Region, NY - Air Quality Forecast" xmlUrl="https://feeds.enviroflash.info/rss/forecast/253.xml" />
     </outline>
     <outline text="YouTube">
       <outline htmlUrl="https://www.youtube.com/channel/UCtMVHI3AJD4Qk4hcbZnI9ZQ" type="rss" text="" title="SomeOrdinaryGamers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ" />
