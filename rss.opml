@@ -15,6 +15,7 @@
       <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1019" type="rss" text="Latest technology news and breakthroughs in technology, science, and industry. Download the NPR Technology podcast and Technology RSS feed." title="Technology : NPR" xmlUrl="https://feeds.npr.org/1019/rss.xml" />
       <outline htmlUrl="https://techcrunch.com/" type="rss" text="Startup and Technology News" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" />
       <outline htmlUrl="https://www.wired.com/" type="rss" text="The latest from www.wired.com" title="Wired" xmlUrl="https://www.wired.com/feed/rss" />
+      <outline htmlUrl="https://restofworld.org/" type="rss" text="A continuous stream of the latest articles published from Rest of World" title="Rest of World - Latest Stories" xmlUrl="https://restofworld.org/feed/latest" />
     </outline>
     <outline text="Tech - Blogs">
       <outline htmlUrl="https://blog.thunderbird.net/" type="rss" text="News and Updates about Thunderbird" title="The Thunderbird Blog" xmlUrl="https://blog.thunderbird.net/feed/" />
@@ -31,10 +32,12 @@
       <outline htmlUrl="https://ploum.net/index_en.html" type="rss" text="le blog de Lionel Dricot" title="Ploum.net" xmlUrl="https://ploum.net/atom_en.xml" />
       <outline htmlUrl="https://vkc.sh/blog/" type="rss" text="Veronica explains even more" title="VKC.sh | Veronica Explains" xmlUrl="https://vkc.sh/feed/" />
       <outline htmlUrl="https://pluralistic.net/" type="rss" text="No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period." title="Pluralistic: Daily links from Cory Doctorow" xmlUrl="https://pluralistic.net/feed/" />
+      <outline htmlUrl="https://pointieststick.com/" type="rss" text="Below is a brief look at recent changes in the KDE projects I work on and follow!" title="Adventures in Linux and KDE" xmlUrl="https://pointieststick.com/feed/" />
     </outline>
     <outline text="Gaming">
       <outline htmlUrl="https://www.minecraft.net/en-us/article" type="rss" text="All the latest news, inside info and insight into the community's amazing creations!" title="Minecraft.net - All Content RSS Feed" xmlUrl="https://www.minecraft.net/en-us/feeds/community-content/rss" />
       <outline htmlUrl="https://prismlauncher.org/news/" type="rss" text="An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability." title="Prism Launcher" xmlUrl="https://prismlauncher.org/feed/feed.xml" />
+      <outline htmlUrl="https://www.thrillingtalesofoldvideogames.com/" type="rss" text="" title="Thrilling Tales of Old Video Games" xmlUrl="https://www.thrillingtalesofoldvideogames.com/?format=rss" />
     </outline>
     <outline text="Health">
       <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1031" type="rss" text="NPR news on world health issues, disease control, public health and sanitation, and health education. Subscribe to the RSS feed." title="NPR Topics: Global Health" xmlUrl="https://feeds.npr.org/1031/rss.xml" />
