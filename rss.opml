@@ -16,6 +16,7 @@
       <outline htmlUrl="https://techcrunch.com/" type="rss" text="Startup and Technology News" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" />
       <outline htmlUrl="https://www.wired.com/" type="rss" text="The latest from www.wired.com" title="Wired" xmlUrl="https://www.wired.com/feed/rss" />
       <outline htmlUrl="https://restofworld.org/" type="rss" text="A continuous stream of the latest articles published from Rest of World" title="Rest of World - Latest Stories" xmlUrl="https://restofworld.org/feed/latest" />
+      <outline htmlUrl="https://www.technologyreview.com/" type="rss" text="" title="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" />
     </outline>
     <outline text="Tech - Blogs">
       <outline htmlUrl="https://blog.thunderbird.net/" type="rss" text="News and Updates about Thunderbird" title="The Thunderbird Blog" xmlUrl="https://blog.thunderbird.net/feed/" />
@@ -25,7 +26,6 @@
       <outline htmlUrl="https://newpipe.net/blog/" type="rss" text="The latest blog posts" title="NewPipe Blog" xmlUrl="https://newpipe.net/blog/feeds/news.rss" />
       <outline htmlUrl="https://news.nononsenseapps.com/" type="rss" text="Latest entries" title="Feeder News" xmlUrl="https://news.nononsenseapps.com/index.atom" />
       <outline htmlUrl="https://sfconservancy.org/blog/" type="rss" text="All blogs at the Software Freedom Conservancy." title="The Software Freedom Conservancy Blog." xmlUrl="https://sfconservancy.org/feeds/blog/" />
-      <outline htmlUrl="https://openai.com/blog" type="rss" text="The OpenAI blog" title="OpenAI Blog" xmlUrl="https://openai.com/blog/rss.xml" />
       <outline htmlUrl="https://blog.documentfoundation.org/" type="rss" text="The home of LibreOffice" title="The Document Foundation Blog" xmlUrl="https://blog.documentfoundation.org/feed/" />
     </outline>
     <outline text="Personal Blogs">
