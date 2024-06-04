@@ -17,6 +17,7 @@
       <outline htmlUrl="https://www.wired.com/" type="rss" text="The latest from www.wired.com" title="Wired" xmlUrl="https://www.wired.com/feed/rss" />
       <outline htmlUrl="https://restofworld.org/" type="rss" text="A continuous stream of the latest articles published from Rest of World" title="Rest of World - Latest Stories" xmlUrl="https://restofworld.org/feed/latest" />
       <outline htmlUrl="https://www.technologyreview.com/" type="rss" text="" title="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" />
+      <outline htmlUrl="https://www.404media.co/" type="rss" text="404 Media is a new independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." title="404 Media" xmlUrl="https://www.404media.co/rss/" />
     </outline>
     <outline text="Tech - Blogs">
       <outline htmlUrl="https://blog.thunderbird.net/" type="rss" text="News and Updates about Thunderbird" title="The Thunderbird Blog" xmlUrl="https://blog.thunderbird.net/feed/" />
