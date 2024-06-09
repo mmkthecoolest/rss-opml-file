@@ -28,6 +28,7 @@
       <outline htmlUrl="https://news.nononsenseapps.com/" type="rss" text="Latest entries" title="Feeder News" xmlUrl="https://news.nononsenseapps.com/index.atom" />
       <outline htmlUrl="https://sfconservancy.org/blog/" type="rss" text="All blogs at the Software Freedom Conservancy." title="The Software Freedom Conservancy Blog." xmlUrl="https://sfconservancy.org/feeds/blog/" />
       <outline htmlUrl="https://blog.documentfoundation.org/" type="rss" text="The home of LibreOffice" title="The Document Foundation Blog" xmlUrl="https://blog.documentfoundation.org/feed/" />
+      <outline htmlUrl="https://kde.org/announcements/" type="rss" text="Recent content on KDE Community" title="KDE Community" xmlUrl="https://kde.org/index.xml" />
     </outline>
     <outline text="Personal Blogs">
       <outline htmlUrl="https://ploum.net/index_en.html" type="rss" text="le blog de Lionel Dricot" title="Ploum.net" xmlUrl="https://ploum.net/atom_en.xml" />
