@@ -44,7 +44,6 @@
     </outline>
     <outline text="Health">
       <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1031" type="rss" text="NPR news on world health issues, disease control, public health and sanitation, and health education. Subscribe to the RSS feed." title="NPR Topics: Global Health" xmlUrl="https://feeds.npr.org/1031/rss.xml" />
-      <outline htmlUrl="https://www.webmd.com/" type="rss" text="WebMD Health - Trustworthy, Credible and Timely Health Information. The content of this feed is confidential and proprietary. It may not be distributed, copied or otherwise reproduced without express written permission from WebMD." title="WebMD Health" xmlUrl="https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC" />
     </outline>
     <outline text="Mental Health">
       <outline htmlUrl="https://www.psypost.org/" type="rss" text="Reporting the latest scientific research on behavior, cognition and society" title="PsyPost" xmlUrl="https://www.psypost.org/feed" />
