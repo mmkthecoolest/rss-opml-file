@@ -28,6 +28,7 @@
       <outline htmlUrl="https://newpipe.net/blog/" type="rss" text="The latest blog posts" title="NewPipe Blog" xmlUrl="https://newpipe.net/blog/feeds/news.rss" />
       <outline htmlUrl="https://news.nononsenseapps.com/" type="rss" text="Latest entries" title="Feeder News" xmlUrl="https://news.nononsenseapps.com/index.atom" />
       <outline htmlUrl="https://sfconservancy.org/blog/" type="rss" text="All blogs at the Software Freedom Conservancy." title="The Software Freedom Conservancy Blog." xmlUrl="https://sfconservancy.org/feeds/blog/" />
+      <outline htmlUrl="https://openai.com/news" type="rss" text="The OpenAI blog" title="OpenAI News" xmlUrl="https://openai.com/news/rss.xml" />
       <outline htmlUrl="https://blog.documentfoundation.org/" type="rss" text="The home of LibreOffice" title="The Document Foundation Blog" xmlUrl="https://blog.documentfoundation.org/feed/" />
       <outline htmlUrl="https://kde.org/announcements/" type="rss" text="Recent content on KDE Community" title="KDE Community" xmlUrl="https://kde.org/index.xml" />
       <outline htmlUrl="https://www.eff.org/updates?type=All" type="rss" text="EFF's Deeplinks Blog: Noteworthy news from around the internet" title="EFF Deeplinks" xmlUrl="https://www.eff.org/rss/updates.xml" />
@@ -37,9 +38,9 @@
       <outline htmlUrl="https://vkc.sh/blog/" type="rss" text="Veronica explains even more" title="VKC.sh | Veronica Explains" xmlUrl="https://vkc.sh/feed/" />
       <outline htmlUrl="https://pluralistic.net/" type="rss" text="No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period." title="Pluralistic: Daily links from Cory Doctorow" xmlUrl="https://pluralistic.net/feed/" />
       <outline htmlUrl="https://pointieststick.com/" type="rss" text="Below is a brief look at recent changes in the KDE projects I work on and follow!" title="Adventures in Linux and KDE" xmlUrl="https://pointieststick.com/feed/" />
+      <outline htmlUrl="https://blog.cryptographyengineering.com/" type="rss" text="Some random thoughts about crypto. Notes from a course I teach. Pictures of my dachshunds." title="A Few Thoughts on Cryptographic Engineering" xmlUrl="https://blog.cryptographyengineering.com/feed/" />
     </outline>
     <outline text="Gaming">
-      <outline htmlUrl="https://www.minecraft.net/en-us/article" type="rss" text="All the latest news, inside info and insight into the community's amazing creations!" title="Minecraft.net - All Content RSS Feed" xmlUrl="https://www.minecraft.net/en-us/feeds/community-content/rss" />
       <outline htmlUrl="https://prismlauncher.org/news/" type="rss" text="An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability." title="Prism Launcher" xmlUrl="https://prismlauncher.org/feed/feed.xml" />
       <outline htmlUrl="https://www.thrillingtalesofoldvideogames.com/" type="rss" text="" title="Thrilling Tales of Old Video Games" xmlUrl="https://www.thrillingtalesofoldvideogames.com/?format=rss" />
     </outline>
