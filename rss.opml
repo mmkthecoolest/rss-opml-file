@@ -32,6 +32,7 @@
       <outline htmlUrl="https://kde.org/announcements/" type="rss" text="Recent content on KDE Community" title="KDE Community" xmlUrl="https://kde.org/index.xml" />
       <outline htmlUrl="https://www.eff.org/updates?type=All" type="rss" text="EFF's Deeplinks Blog: Noteworthy news from around the internet" title="EFF Deeplinks" xmlUrl="https://www.eff.org/rss/updates.xml" />
       <outline htmlUrl="https://fedoramagazine.org/" type="rss" text="Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members." title="Fedora Magazine" xmlUrl="https://fedoramagazine.org/feed/" />
+      <outline htmlUrl="https://blogs.kde.org/categories/this-week-in-plasma/" type="rss" text="Recent content in This Week in Plasma on KDE Blogs" title="This Week in Plasma on KDE Blogs" xmlUrl="https://blogs.kde.org/categories/this-week-in-plasma/index.xml" />
     </outline>
     <outline text="Personal Blogs">
       <outline htmlUrl="https://ploum.net/index_en.html" type="rss" text="le blog de Lionel Dricot" title="Ploum.net" xmlUrl="https://ploum.net/atom_en.xml" />
