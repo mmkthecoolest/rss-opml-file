@@ -18,6 +18,8 @@
       <outline htmlUrl="https://www.technologyreview.com/" type="rss" text="" title="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" />
       <outline htmlUrl="https://www.404media.co/" type="rss" text="404 Media is a new independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." title="404 Media" xmlUrl="https://www.404media.co/rss/" />
       <outline htmlUrl="https://time.com/section/tech/" type="rss" text="Current &amp; Breaking News | National &amp; World Updates" title="Tech - TIME" xmlUrl="https://time.com/tech/feed/" />
+      <outline htmlUrl="https://therecord.media/" type="rss" text="The Record by Recorded Future News gives exclusive, behind-the-scenes access to leaders, policymakers, researchers, and the shadows of the cyber underground." title="The Record from Recorded Future News" xmlUrl="https://therecord.media/feed" />
+      <outline htmlUrl="https://www.securityweek.com/" type="rss" text="Cybersecurity News, Insights &amp; Analysis" title="SecurityWeek" xmlUrl="https://www.securityweek.com/feed/" />
     </outline>
     <outline text="Tech - Blogs">
       <outline htmlUrl="https://blog.thunderbird.net/" type="rss" text="News and Updates about Thunderbird" title="The Thunderbird Blog" xmlUrl="https://blog.thunderbird.net/feed/" />
