@@ -42,6 +42,7 @@
       <outline htmlUrl="https://pluralistic.net/" type="rss" text="No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period." title="Pluralistic: Daily links from Cory Doctorow" xmlUrl="https://pluralistic.net/feed/" />
       <outline htmlUrl="https://pointieststick.com/" type="rss" text="Below is a brief look at recent changes in the KDE projects I work on and follow!" title="Adventures in Linux and KDE" xmlUrl="https://pointieststick.com/feed/" />
       <outline htmlUrl="https://blog.cryptographyengineering.com/" type="rss" text="Some random thoughts about crypto. Notes from a course I teach. Pictures of my dachshunds." title="A Few Thoughts on Cryptographic Engineering" xmlUrl="https://blog.cryptographyengineering.com/feed/" />
+      <outline htmlUrl="https://www.wheresyoured.at/" type="rss" text="The Words of Ed Zitron, a PR person and writer." title="Ed Zitron's Where's Your Ed At" xmlUrl="https://www.wheresyoured.at/rss/" />
     </outline>
     <outline text="Gaming">
       <outline htmlUrl="https://prismlauncher.org/news/" type="rss" text="An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability." title="Prism Launcher" xmlUrl="https://prismlauncher.org/feed/feed.xml" />
