@@ -37,6 +37,11 @@
       <outline htmlUrl="https://fedoramagazine.org/" type="rss" text="Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members." title="Fedora Magazine" xmlUrl="https://fedoramagazine.org/feed/" />
       <outline htmlUrl="https://blogs.kde.org/categories/this-week-in-plasma/" type="rss" text="Recent content in This Week in Plasma on KDE Blogs" title="This Week in Plasma on KDE Blogs" xmlUrl="https://blogs.kde.org/categories/this-week-in-plasma/index.xml" />
     </outline>
+    <outline text="Asia News">
+      <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1125" type="rss" text="Asia" title="NPR Topics: Asia" xmlUrl="https://feeds.npr.org/1125/rss.xml" />
+      <outline htmlUrl="https://www.bbc.co.uk/news/world/asia" type="rss" text="BBC News - Asia" title="BBC News - Asia" xmlUrl="https://feeds.bbci.co.uk/news/world/asia/rss.xml" />
+      <outline htmlUrl="https://www.nytimes.com/section/world/asia" type="rss" text="" title="NYT &gt; World &gt; Asia Pacific" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml" />
+    </outline>
     <outline text="Personal Blogs">
       <outline htmlUrl="https://ploum.net/index_en.html" type="rss" text="le blog de Lionel Dricot" title="Ploum.net" xmlUrl="https://ploum.net/atom_en.xml" />
       <outline htmlUrl="https://vkc.sh/blog/" type="rss" text="Veronica explains even more" title="VKC.sh | Veronica Explains" xmlUrl="https://vkc.sh/feed/" />
@@ -81,6 +86,9 @@
       <outline htmlUrl="https://www.youtube.com/channel/UCWFKCr40YwOZQx8FHU_ZqqQ" type="rss" text="" title="JerryRigEverything" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWFKCr40YwOZQx8FHU_ZqqQ" />
       <outline htmlUrl="https://www.youtube.com/channel/UCZKyj7wDE51SMbkrRBT6SdA" type="rss" text="" title="Nerrel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZKyj7wDE51SMbkrRBT6SdA" />
       <outline htmlUrl="https://www.youtube.com/channel/UCgGw5WSITWvDISNjydXPW3A" type="rss" text="" title="GNCA - GamersNexus Consumer Advocacy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgGw5WSITWvDISNjydXPW3A" />
+    </outline>
+    <outline text="Bluesky">
+      <outline htmlUrl="https://bsky.app/profile/reuters.com" type="rss" text="" title="@reuters.com - Reuters" xmlUrl="https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/rss" />
     </outline>
   </body>
 </opml>
