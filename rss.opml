@@ -87,8 +87,5 @@
       <outline htmlUrl="https://www.youtube.com/channel/UCZKyj7wDE51SMbkrRBT6SdA" type="rss" text="" title="Nerrel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZKyj7wDE51SMbkrRBT6SdA" />
       <outline htmlUrl="https://www.youtube.com/channel/UCgGw5WSITWvDISNjydXPW3A" type="rss" text="" title="GNCA - GamersNexus Consumer Advocacy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgGw5WSITWvDISNjydXPW3A" />
     </outline>
-    <outline text="Bluesky">
-      <outline htmlUrl="https://bsky.app/profile/reuters.com" type="rss" text="" title="@reuters.com - Reuters" xmlUrl="https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/rss" />
-    </outline>
   </body>
 </opml>
