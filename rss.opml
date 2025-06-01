@@ -7,7 +7,6 @@
     <outline text="Tech - News">
       <outline htmlUrl="https://arstechnica.com" type="rss" text="Serving the Technologist for more than a decade. IT news, reviews, and analysis." title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" />
       <outline htmlUrl="https://www.theverge.com/" type="rss" text="" title="The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" />
-      <outline htmlUrl="https://www.techspot.com" type="rss" text="TechSpot News - All Stories" title="TechSpot" xmlUrl="https://www.techspot.com/backend.xml" />
       <outline htmlUrl="https://www.theregister.com/" type="rss" text="Biting the hand that feeds IT - Enterprise Technology News and Analysis" title="The Register" xmlUrl="https://www.theregister.com/headlines.atom" />
       <outline htmlUrl="https://www.bleepingcomputer.com/" type="rss" text="BleepingComputer - All Stories" title="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" />
       <outline htmlUrl="https://www.nytimes.com/section/technology" type="rss" text="" title="NYT &gt; Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" />
@@ -60,7 +59,6 @@
     </outline>
     <outline text="Mental Health">
       <outline htmlUrl="https://www.psypost.org/" type="rss" text="Reporting the latest scientific research on behavior, cognition and society" title="PsyPost" xmlUrl="https://www.psypost.org/feed" />
-      <outline htmlUrl="https://www.sciencedaily.com/news/mind_brain/mental_health/" type="rss" text="Read the latest research as well as in-depth information on clinical depression, schizophrenia, bipolar disorder, ADHD and other mental health disorders in adults, teens, and children." title="Mental Health Research News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/mental_health.xml" />
     </outline>
     <outline text="YouTube">
       <outline htmlUrl="https://www.youtube.com/channel/UCkpKS8M7MaZAFewtUz24K3A" type="rss" text="" title="Cybershell" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkpKS8M7MaZAFewtUz24K3A" />
