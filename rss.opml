@@ -41,6 +41,11 @@
       <outline htmlUrl="https://www.bbc.co.uk/news/world/asia" type="rss" text="BBC News - Asia" title="BBC News - Asia" xmlUrl="https://feeds.bbci.co.uk/news/world/asia/rss.xml" />
       <outline htmlUrl="https://www.nytimes.com/section/world/asia" type="rss" text="" title="NYT &gt; World &gt; Asia Pacific" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml" />
     </outline>
+    <outline text="Middle East News">
+      <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1009" type="rss" text="Middle East news, arts, culture, and politics. Updates on Iraq, Israel, Palestine, Iran, OPEC, and the Persian Gulf states NPR streaming audio. Subscribe to the Middle East RSS feed." title="NPR Topics: Middle East" xmlUrl="https://feeds.npr.org/1009/rss.xml" />
+      <outline htmlUrl="https://www.bbc.co.uk/news/world/middle_east" type="rss" text="BBC News - Middle East" title="BBC News - Middle East" xmlUrl="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" />
+      <outline htmlUrl="https://www.nytimes.com/section/world/middleeast" type="rss" text="" title="NYT &gt; World &gt; Middle East" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml" />
+    </outline>
     <outline text="Personal Blogs">
       <outline htmlUrl="https://ploum.net/index_en.html" type="rss" text="le blog de Lionel Dricot" title="Ploum.net" xmlUrl="https://ploum.net/atom_en.xml" />
       <outline htmlUrl="https://vkc.sh/blog/" type="rss" text="Veronica explains even more" title="VKC.sh | Veronica Explains" xmlUrl="https://vkc.sh/feed/" />
