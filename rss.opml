@@ -36,7 +36,6 @@
       <outline htmlUrl="https://fedoramagazine.org/" type="rss" text="Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members." title="Fedora Magazine" xmlUrl="https://fedoramagazine.org/feed/" />
       <outline htmlUrl="https://blogs.kde.org/categories/this-week-in-plasma/" type="rss" text="Recent content in This Week in Plasma on KDE Blogs" title="This Week in Plasma on KDE Blogs" xmlUrl="https://blogs.kde.org/categories/this-week-in-plasma/index.xml" />
       <outline htmlUrl="https://f-droid.org/en/news/" type="rss" text="F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device." title="F-Droid - Free and Open Source Android App Repository" xmlUrl="https://f-droid.org/feed.xml" />
-      <outline htmlUrl="https://lichess.org/@/Lichess/blog" type="rss" text="" title="Lichess's Blog" xmlUrl="https://lichess.org/@/Lichess/blog.atom" />
     </outline>
     <outline text="Asia News">
       <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1125" type="rss" text="Asia" title="NPR Topics: Asia" xmlUrl="https://feeds.npr.org/1125/rss.xml" />
@@ -59,6 +58,7 @@
     <outline text="Gaming">
       <outline htmlUrl="https://prismlauncher.org/news/" type="rss" text="An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability." title="Prism Launcher" xmlUrl="https://prismlauncher.org/feed/feed.xml" />
       <outline htmlUrl="https://www.thrillingtalesofoldvideogames.com/" type="rss" text="" title="Thrilling Tales of Old Video Games" xmlUrl="https://www.thrillingtalesofoldvideogames.com/?format=rss" />
+      <outline htmlUrl="https://lichess.org/@/Lichess/blog" type="rss" text="" title="Lichess's Blog" xmlUrl="https://lichess.org/@/Lichess/blog.atom" />
     </outline>
     <outline text="Health">
       <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1031" type="rss" text="NPR news on world health issues, disease control, public health and sanitation, and health education. Subscribe to the RSS feed." title="NPR Topics: Global Health" xmlUrl="https://feeds.npr.org/1031/rss.xml" />
