@@ -10,7 +10,6 @@
       <outline htmlUrl="https://www.theregister.com/" type="rss" text="Biting the hand that feeds IT - Enterprise Technology News and Analysis" title="The Register" xmlUrl="https://www.theregister.com/headlines.atom" />
       <outline htmlUrl="https://www.bleepingcomputer.com/" type="rss" text="BleepingComputer - All Stories" title="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" />
       <outline htmlUrl="https://www.nytimes.com/section/technology" type="rss" text="" title="NYT &gt; Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" />
-      <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1019" type="rss" text="Latest technology news and breakthroughs in technology, science, and industry. Download the NPR Technology podcast and Technology RSS feed." title="Technology : NPR" xmlUrl="https://feeds.npr.org/1019/rss.xml" />
       <outline htmlUrl="https://techcrunch.com/" type="rss" text="Startup and Technology News" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" />
       <outline htmlUrl="https://www.wired.com/" type="rss" text="The latest from www.wired.com" title="Wired" xmlUrl="https://www.wired.com/feed/rss" />
       <outline htmlUrl="https://restofworld.org/" type="rss" text="A continuous stream of the latest articles published from Rest of World" title="Rest of World - Latest Stories" xmlUrl="https://restofworld.org/feed/latest" />
@@ -38,12 +37,10 @@
       <outline htmlUrl="https://f-droid.org/en/news/" type="rss" text="F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device." title="F-Droid - Free and Open Source Android App Repository" xmlUrl="https://f-droid.org/feed.xml" />
     </outline>
     <outline text="Asia News">
-      <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1125" type="rss" text="Asia" title="NPR Topics: Asia" xmlUrl="https://feeds.npr.org/1125/rss.xml" />
       <outline htmlUrl="https://www.bbc.co.uk/news/world/asia" type="rss" text="BBC News - Asia" title="BBC News - Asia" xmlUrl="https://feeds.bbci.co.uk/news/world/asia/rss.xml" />
       <outline htmlUrl="https://www.nytimes.com/section/world/asia" type="rss" text="" title="NYT &gt; World &gt; Asia Pacific" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml" />
     </outline>
     <outline text="Middle East News">
-      <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1009" type="rss" text="Middle East news, arts, culture, and politics. Updates on Iraq, Israel, Palestine, Iran, OPEC, and the Persian Gulf states NPR streaming audio. Subscribe to the Middle East RSS feed." title="NPR Topics: Middle East" xmlUrl="https://feeds.npr.org/1009/rss.xml" />
       <outline htmlUrl="https://www.bbc.co.uk/news/world/middle_east" type="rss" text="BBC News - Middle East" title="BBC News - Middle East" xmlUrl="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" />
       <outline htmlUrl="https://www.nytimes.com/section/world/middleeast" type="rss" text="" title="NYT &gt; World &gt; Middle East" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml" />
     </outline>
@@ -61,7 +58,6 @@
       <outline htmlUrl="https://lichess.org/@/Lichess/blog" type="rss" text="" title="Lichess's Blog" xmlUrl="https://lichess.org/@/Lichess/blog.atom" />
     </outline>
     <outline text="Health">
-      <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1031" type="rss" text="NPR news on world health issues, disease control, public health and sanitation, and health education. Subscribe to the RSS feed." title="NPR Topics: Global Health" xmlUrl="https://feeds.npr.org/1031/rss.xml" />
       <outline htmlUrl="https://time.com/section/health/" type="rss" text="Current &amp; Breaking News | National &amp; World Updates" title="Health - TIME" xmlUrl="https://time.com/health/feed/" />
     </outline>
     <outline text="Mental Health">
